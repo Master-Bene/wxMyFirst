@@ -4,7 +4,8 @@
     "pages/logs/logs",
     "pages/News/News",
     "pages/Pictures/Pictures",
-    "pages/about/about"
+    "pages/about/about",
+    "pages/Cars/Cars"
   ],
   "window": {
     "backgroundTextStyle": "light",
