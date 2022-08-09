@@ -8,10 +8,12 @@
     "pages/Cars/Cars"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "土豆之家",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#FFC0CB",
+    "backgroundTextStyle":"light",
+    "enablePullDownRefresh": true
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
